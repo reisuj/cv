@@ -1,5 +1,7 @@
 body {
   background-color: #c7f2e3;
+  width: 50%;
+  margin: 0 auto;
 }
 
 h1, h3 {
@@ -12,4 +14,8 @@ hr {
   border-color: grey;
   border-width: 5px;
   width: 10%;
+}
+
+.profile_pic {
+  border-radius: 100%;
 }
